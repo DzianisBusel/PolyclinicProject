@@ -6,6 +6,7 @@
         <head>
 
             Doctor!!! Welcome to the Gregory House Polyclinic
+            <a href="/login">Exit</a>
 
             <style>
                 table, th, tr, td {

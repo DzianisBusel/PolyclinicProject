@@ -5,6 +5,7 @@
     <div align="center">
         <head>
             ADMIN Welcome to the Gregory House Polyclinic
+            <a href="/login">Exit</a>
             <style>
                 table, th, tr, td {
                     border: 1px solid;
